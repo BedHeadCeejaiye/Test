@@ -44,7 +44,7 @@ I made sure to include more than 20 Streamlit components: text elements, inputs,
 
 ## Deployment
 - Code: `app.py`
-- Repo: `BedHeadCeejaye/Test`
+- Repo: `BedHeadCeejaye/Goose-and-Potatoes`
 - Requirements: `streamlit`, `pandas`
 - Deployed on Streamlit Cloud
 - Live app: [goose-and-potatoes.streamlit.app](https://goose-and-potatoes.streamlit.app)
